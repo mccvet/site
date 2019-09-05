@@ -1,0 +1,94 @@
+h1{
+	
+	padding:0; margin:0; 
+}
+
+body{
+background-color:#000000;
+display:block;
+height:947px;
+margin:0px;
+width:1292px;
+text-align: center;
+border-right: none;
+float: left;
+font-family: Arial, melvetica, sans-serif; line-height: 1.3;
+padding: 600px;
+}
+.heat-wrapeer{
+width: 900px;
+height: 465px;
+background-color: #9AD0D0;
+padding: 25px;
+float: left;
+border-right: none;
+margin:200px;
+text-align: center;
+}
+
+.heat{
+width: 850px;
+height: 420px;
+background-color: #ffffff;
+padding: 100px;
+float: left;
+border-right: none;
+margin:0px 0px 0px 10px;
+text-align: center;
+padding: 30px 20px 0px 0px;
+}
+.block1{
+text-align:right ;
+float: left;
+padding: 0px 10px 0px 42%;
+}
+.block2{
+text-align: left;
+float: block;
+}
+.block3{
+text-align:right ;
+float: left;
+padding: 0px 10px 0px 80px;
+}
+.block4{
+text-align: left;
+float: block;
+}
+.block5{
+text-align:right ;
+float: left;
+padding: 0px 10px 0px 110px;
+}
+.block6{
+text-align:left;
+float: block;
+}
+.block7{
+text-align: left;
+float: block;
+padding: 0px 10px 0px 410px;
+}
+.block8{
+text-align:right ;
+float: left;
+padding: 0px 10px 0px 190px;
+}
+.block9{
+text-align: left;
+float: block;
+}
+.block10{
+text-align:right ;
+float: left;
+padding: 0px 10px 0px 80px;
+}
+.block11{
+text-align: left;
+float: block;
+}
+.block12{
+text-align: left;
+float: block;
+padding: 0px 10px 0px 406px;
+}
